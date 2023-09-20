@@ -1,0 +1,23 @@
+.logo-text {
+    font-weight: bolder;
+}
+
+#image-logo {
+    max-width: 30px;
+}
+
+.grid-3-columns {
+    cursor: pointer;
+}
+
+.grid-1-columns {
+    cursor: pointer;
+}
+
+.grid-3-columns.active {
+    color: blueviolet;
+}
+
+.grid-1-columns.active {
+    color: blueviolet;
+}
